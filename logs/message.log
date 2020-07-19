@@ -1,0 +1,36 @@
+{"update_id":65564448,
+"message":{"message_id":35,"from":{"id":59343572,"is_bot":false,"first_name":"Fabian","last_name":"O","username":"InStar_official","language_code":"de"},"chat":{"id":59343572,"first_name":"Fabian","last_name":"O","username":"InStar_official","type":"private"},"date":1564343910,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+{"update_id":65564449,
+"message":{"message_id":37,"from":{"id":59343572,"is_bot":false,"first_name":"Fabian","last_name":"O","username":"InStar_official","language_code":"de"},"chat":{"id":59343572,"first_name":"Fabian","last_name":"O","username":"InStar_official","type":"private"},"date":1564343937,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+{"update_id":65564450,
+"message":{"message_id":39,"from":{"id":59343572,"is_bot":false,"first_name":"Fabian","last_name":"O","username":"InStar_official","language_code":"de"},"chat":{"id":59343572,"first_name":"Fabian","last_name":"O","username":"InStar_official","type":"private"},"date":1564343942,"text":"/menu","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+{"update_id":65564451,
+"callback_query":{"id":"254878704385827153","from":{"id":59343572,"is_bot":false,"first_name":"Fabian","last_name":"O","username":"InStar_official","language_code":"de"},"message":{"message_id":40,"from":{"id":685477070,"is_bot":true,"first_name":"TKG","username":"tkg_test_bot"},"chat":{"id":59343572,"first_name":"Fabian","last_name":"O","username":"InStar_official","type":"private"},"date":1564343942,"text":"Menu","reply_markup":{"inline_keyboard":[[{"text":"Hello World 1","callback_data":"btn_helloworld1"},{"text":"Hello World 2","callback_data":"btn_helloworld2"},{"text":"Hello World 3","callback_data":"btn_helloworld3"}]]}},"chat_instance":"3837322545213214616","data":"btn_helloworld1"}}
+ 
+{"update_id":65564454,
+"callback_query":{"id":"254878702959691055","from":{"id":59343572,"is_bot":false,"first_name":"Fabian","last_name":"O","username":"InStar_official","language_code":"de"},"message":{"message_id":40,"from":{"id":685477070,"is_bot":true,"first_name":"TKG","username":"tkg_test_bot"},"chat":{"id":59343572,"first_name":"Fabian","last_name":"O","username":"InStar_official","type":"private"},"date":1564343942,"text":"Menu","reply_markup":{"inline_keyboard":[[{"text":"Hello World 1","callback_data":"btn_helloworld1"},{"text":"Hello World 2","callback_data":"btn_helloworld2"},{"text":"Hello World 3","callback_data":"btn_helloworld3"}]]}},"chat_instance":"3837322545213214616","data":"btn_helloworld2"}}
+ 
+{"update_id":65564455,
+"callback_query":{"id":"254878700997391767","from":{"id":59343572,"is_bot":false,"first_name":"Fabian","last_name":"O","username":"InStar_official","language_code":"de"},"message":{"message_id":40,"from":{"id":685477070,"is_bot":true,"first_name":"TKG","username":"tkg_test_bot"},"chat":{"id":59343572,"first_name":"Fabian","last_name":"O","username":"InStar_official","type":"private"},"date":1564343942,"text":"Menu","reply_markup":{"inline_keyboard":[[{"text":"Hello World 1","callback_data":"btn_helloworld1"},{"text":"Hello World 2","callback_data":"btn_helloworld2"},{"text":"Hello World 3","callback_data":"btn_helloworld3"}]]}},"chat_instance":"3837322545213214616","data":"btn_helloworld1"}}
+ 
+{"update_id":65564456,
+"message":{"message_id":44,"from":{"id":59343572,"is_bot":false,"first_name":"Fabian","last_name":"O","username":"InStar_official","language_code":"de"},"chat":{"id":59343572,"first_name":"Fabian","last_name":"O","username":"InStar_official","type":"private"},"date":1564345435,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+ 
+{"update_id":65564457,
+"message":{"message_id":45,"from":{"id":59343572,"is_bot":false,"first_name":"Fabian","last_name":"O","username":"InStar_official","language_code":"de"},"chat":{"id":59343572,"first_name":"Fabian","last_name":"O","username":"InStar_official","type":"private"},"date":1564345610,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+ 
+{"update_id":65564458,
+"message":{"message_id":46,"from":{"id":59343572,"is_bot":false,"first_name":"Fabian","last_name":"O","username":"InStar_official","language_code":"de"},"chat":{"id":59343572,"first_name":"Fabian","last_name":"O","username":"InStar_official","type":"private"},"date":1564345614,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+ 
+{"update_id":65564459,
+"message":{"message_id":47,"from":{"id":59343572,"is_bot":false,"first_name":"Fabian","last_name":"O","username":"InStar_official","language_code":"de"},"chat":{"id":59343572,"first_name":"Fabian","last_name":"O","username":"InStar_official","type":"private"},"date":1564345629,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+ 
+{"update_id":65564460,
+"message":{"message_id":49,"from":{"id":59343572,"is_bot":false,"first_name":"Fabian","last_name":"O","username":"InStar_official","language_code":"de"},"chat":{"id":59343572,"first_name":"Fabian","last_name":"O","username":"InStar_official","type":"private"},"date":1564349948,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+ 
+{"update_id":65564461,
+"message":{"message_id":51,"from":{"id":59343572,"is_bot":false,"first_name":"Fabian","last_name":"O","username":"InStar_official","language_code":"de"},"chat":{"id":59343572,"first_name":"Fabian","last_name":"O","username":"InStar_official","type":"private"},"date":1564350019,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+ 
+{"update_id":65564462,
+"message":{"message_id":54,"from":{"id":59343572,"is_bot":false,"first_name":"Fabian","last_name":"O","username":"InStar_official","language_code":"de"},"chat":{"id":59343572,"first_name":"Fabian","last_name":"O","username":"InStar_official","type":"private"},"date":1564350251,"text":"/menu","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+ 
